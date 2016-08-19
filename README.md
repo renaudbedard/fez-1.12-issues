@@ -1,5 +1,5 @@
 # fez-1.12-issues
-A public repository for FEZ 1.12 testers to log issues
+A public repository for FEZ 1.12 issue logging and tracking.
 
 ## Procedure
 
@@ -12,3 +12,5 @@ Location of the `Debug Log.txt` file :
 - Linux : `$XDG_DATA_HOME/FEZ/`
 
 Please join this file for crash reports.
+
+Thanks!
