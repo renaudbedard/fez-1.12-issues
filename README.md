@@ -26,7 +26,7 @@ If the game still crashes on start, please log an issue and join the debug log (
 
 Please log issues using the "Issues" tab. Include anything that could help reproduce and fix the issue : screenshots (you can paste them directly from your clipboard), context/repro steps.
 
-Location of the `[YYYY-MM-JJ] Debug Log.txt #NN` file (prefix is the date, suffix is sequential) :
+Location of the `[YYYY-MM-JJ] Debug Log #NN.txt` file (prefix is the date, suffix is sequential) :
 
 - Windows : `%APPDATA%\FEZ\`
 - OS X : `~/Library/Application Support/FEZ/`
