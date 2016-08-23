@@ -22,6 +22,12 @@ Try updating your graphics card drivers :
  
 If the game still crashes on start, please log an issue and join the debug log (see procedure below).
 
+#### I'm having a gameplay issue or bug that was also present in prior versions of FEZ, should I log an issue?
+
+Feel free to log one, but there's good chances that it'll be closed as "Won't Fix". As I've said in the announcement post, v1.12 is the last major update to FEZ and the intent of this bug repository is to make sure that 1.12 did not break anything that worked before, and that its changes actually fix what they were supposed to fix.
+
+That said, crashes are always problematic and I do intend to fix those, new or old.
+
 ## Procedure
 
 Please log issues using the "Issues" tab. Include anything that could help reproduce and fix the issue : screenshots (you can paste them directly from your clipboard), context/repro steps.
