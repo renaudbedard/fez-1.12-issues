@@ -10,7 +10,7 @@ Delete local content for FEZ in Steam and reinstall it; you won't lose any save 
 #### The game hangs or does not complete while installing prerequisites (on Windows)
 
 Try to install them manually :
-- .NET Framework 4.6 : https://www.microsoft.com/en-ca/download/details.aspx?id=48130
+- .NET Framework 4.0 : https://www.microsoft.com/en-ca/download/details.aspx?id=17851
 - Visual C++ 2010 Redistributable (x86) : https://www.microsoft.com/en-ca/download/details.aspx?id=5555
 
 #### The game crashes on start
