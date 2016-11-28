@@ -6,6 +6,7 @@ A public repository for FEZ 1.12 issue logging and tracking.
 #### What's new in FEZ 1.12?
 
 See the `Changelog.txt` file in the FEZ local content directory and this blog entry for the full 1.12 changelog : http://theinstructionlimit.com/fez-1-12
+
 See here for the 1.12 "hotfix" update changelog (any updates that succeeded the original release of FEZ 1.12) : https://github.com/renaudbedard/fez-1.12-issues/wiki/1.12-Update-Changelog
 
 #### The game refuses to update in the Steam client (schedules over and over but never updates, or says "An error occured while updating FEZ (content still encrypted)")
